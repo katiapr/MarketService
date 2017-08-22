@@ -1,0 +1,14 @@
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketApplication\bin\Debug\MarketApplication.exe.config
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketApplication\bin\Debug\MarketApplication.exe
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketApplication\bin\Debug\MarketApplication.pdb
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketApplication\obj\Debug\MainWindow.baml
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketApplication\obj\Debug\MainWindow.g.cs
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketApplication\obj\Debug\App.g.cs
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketApplication\obj\Debug\MarketApplication_MarkupCompile.cache
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketApplication\obj\Debug\MarketApplication.g.resources
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketApplication\obj\Debug\MarketApplication.Properties.Resources.resources
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketApplication\obj\Debug\MarketApplication.csproj.GenerateResource.Cache
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketApplication\obj\Debug\MarketApplication.exe
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketApplication\obj\Debug\MarketApplication.pdb
+c:\Users\Katka\Documents\Visual Studio 2013\Projects\MarketService\MarketApplication\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Katka\Documents\Visual Studio 2013\Projects\MarketService\MarketApplication\bin\Debug\Newtonsoft.Json.xml
