@@ -1,0 +1,7 @@
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketService\bin\MarketService.dll.config
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketService\bin\MarketService.dll
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketService\bin\MarketService.pdb
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketService\obj\Debug\MarketService.dll
+c:\users\katka\documents\visual studio 2013\Projects\MarketService\MarketService\obj\Debug\MarketService.pdb
+c:\Users\Katka\Documents\Visual Studio 2013\Projects\MarketService\MarketService\bin\Newtonsoft.Json.dll
+c:\Users\Katka\Documents\Visual Studio 2013\Projects\MarketService\MarketService\bin\Newtonsoft.Json.xml
