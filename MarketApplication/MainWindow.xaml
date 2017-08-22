@@ -1,0 +1,24 @@
+﻿<Window x:Class="MarketApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="462.164" Width="1102.723">
+    <Grid Margin="0,0,11,21">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="45*"/>
+            <ColumnDefinition Width="293*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Initilize Products" Click="Get_Products_Button_Clicked" HorizontalAlignment="Left" Margin="10,58,0,0" VerticalAlignment="Top" Width="142" Height="51" Grid.ColumnSpan="2"/>
+        <Button Content="Show Shopping Cart" Click="ShowShoppingCartBtn_Clicked" HorizontalAlignment="Left" Margin="10,237,0,0" VerticalAlignment="Top" Width="142" Grid.ColumnSpan="2" Height="55"/>
+        <Button Content="Show Market"  Click="ShowMarketBtn_Clicked" HorizontalAlignment="Left" Margin="10,114,0,0" VerticalAlignment="Top" Width="142" Height="53" Grid.ColumnSpan="2"/>
+        <Button Content="Delete All Products" Click="DeleteAllProductsBtn_Clicked" HorizontalAlignment="Left" Margin="10,297,0,0" VerticalAlignment="Top" Width="142" Height="56" Grid.ColumnSpan="2"/>
+        <Label Content="Market" HorizontalAlignment="Left" Margin="201,33,0,0" VerticalAlignment="Top" Width="100" Grid.Column="1"/>
+        <Label Content="Shopping Cart" HorizontalAlignment="Left" Height="26" Margin="582,33,0,0" VerticalAlignment="Top" Width="136" Grid.Column="1"/>
+        <DataGrid Grid.Column="1" RowHeight="20" Name ="dtgMarket" HorizontalAlignment="Left" Margin="66,59,0,0" VerticalAlignment="Top" Height="279" Width="331" SelectionChanged="dtgMarket_SelectionChanged"/>
+        <DataGrid  Grid.Column="1" HorizontalAlignment="Left" Name="drgShoppingCart" Margin="570,58,0,0" VerticalAlignment="Top" Height="280" Width="319"/>
+        <Button Content="Add To Cart >>" Click="AddToCart" Grid.Column="1" HorizontalAlignment="Left" Height="26" Margin="415,123,0,0" VerticalAlignment="Top" Width="127"/>
+        <Button Content=" Remove From Cart" Click="RemoveFromCart" Grid.Column="1" HorizontalAlignment="Left" Height="25" Margin="415,167,0,0" VerticalAlignment="Top" Width="127"/>
+        <Label Content="Total" Grid.Column="1" HorizontalAlignment="Left" Margin="667,354,0,0" VerticalAlignment="Top" Height="29"/>
+        <TextBox Grid.Column="1" Name="txtTotalSum" HorizontalAlignment="Left" Height="47" Margin="716,354,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="76"/>
+
+    </Grid>
+</Window>
